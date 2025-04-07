@@ -11,7 +11,7 @@ Special topics in bioastronautics is a project-based course that immerses studen
 
 | Date | Lecture  |  
 |---|---|
-| Apr 4  | Space 2.0 |  
+| Apr 4  | [Space 2.0](https://github.com/eliah-o/bioastronautics-q1/blob/main/Lectures/Lecture%201%20-%20Space%202.0.pdf) |  
 | Apr 11 | Guest Speakers: SERA Founders |  
 | Apr 18 | 3D Printing |  
 | Apr 25 | Fluid Dynamics | 
