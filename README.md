@@ -13,7 +13,7 @@ Special topics in bioastronautics is a project-based course that immerses studen
 |---|---|
 | Apr 4  | [Space 2.0](https://github.com/eliah-o/bioastronautics-q1/blob/main/Lectures/Lecture%201%20-%20Space%202.0.pdf) |  
 | Apr 11 | **Guest Speakers: SERA Leadership**<br>Sam Hutchison: Co-Founder<br>Victor Hespanha: Astronaut, NS-21 |  
-| Apr 18 | 3D Printing |  
+| Apr 18 | [3D Printing](https://github.com/eliah-o/bioastronautics-q1/blob/main/Lectures/Lecture%202%20-%203D%20Printing.pdf) |  
 | Apr 25 | Fluid Dynamics | 
 | May 2 | Importance of Fluids in Space | 
 | Reading Week | Assignment (TBA) | 
