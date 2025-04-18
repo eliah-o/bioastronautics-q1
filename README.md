@@ -17,7 +17,7 @@ Special topics in bioastronautics is a project-based course that immerses studen
 | Apr 25 | Fluid Dynamics | 
 | May 2 | Importance of Fluids in Space | 
 | Reading Week | Assignment (TBA) | 
-| May 16 | Cell Culture | 
+| May 16 | **Guest Speaker: NASA Astronaut Corps**<br>[Maj. Kathleen Rubins, PhD](https://en.wikipedia.org/wiki/Kathleen_Rubins)<br> At the Edge of Earth: Conducting Science in Space| 
 | May 23 | Morphological Markers and Immunofluorescence | 
 | May 30 | TBA | 
 | June 6 | TBA | 
