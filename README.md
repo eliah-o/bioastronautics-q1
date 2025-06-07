@@ -10,6 +10,7 @@ Special topics in bioastronautics is a project-based course that immerses studen
 - 20% Astronaut Health Article ([assignment link](https://github.com/eliah-o/bioastronautics-q1/blob/main/Assignments/SERA%20Cell%20Morphology%20Competition%20-%20Pre-Proposal%20Assignment.pdf))
 - 20% Final Presentation on SERA Fluid Dynamics Competition Tube Design
 - 30% Written Submission for SERA Fluid Dynamics Competition
+<br>[Final project submission instructions](https://github.com/eliah-o/bioastronautics-q1/blob/main/Assignments/Final%20Project%20Assignment.pdf)
 
 ## Course Schedule
 
@@ -25,4 +26,4 @@ Special topics in bioastronautics is a project-based course that immerses studen
 | May 23 | No Class. <br>**Preliminary readings assigned for next week's lecture:**<br>[Cell Culture Basics](https://www.vanderbilt.edu/viibre/CellCultureBasicsEU.pdf)<br>[Organoids Primer](https://www.nature.com/articles/s43586-022-00174-y)<br>[NASA - The Human Body in Space](https://www.nasa.gov/wp-content/uploads/2021/02/bodyinspace_revised_forweb-2022-updated.pdf?emrc=6b269c) | Week 7 [Weekly Update](https://forms.gle/pVeX6SoP62KB47EAA) | 
 | May 30 | Using Cell Culture to Study Astronaut Health | [CAD Demo Video Assignment](https://github.com/eliah-o/bioastronautics-q1/blob/main/Assignments/CAD%20Demo%20Video%20Assignment.pdf); Week 8 [Weekly Update](https://forms.gle/pVeX6SoP62KB47EAA) |
 | June 6 | **Guest Speaker: Yuri Gravity**<br>Daniel Kaschubek<br>Chief Technology Officer<br>[Yuri platform](https://yurigravity.com/platform) for cell culture on SERA's mission | [Astronaut Health Article](https://github.com/eliah-o/bioastronautics-q1/blob/main/Assignments/SERA%20Cell%20Morphology%20Competition%20-%20Pre-Proposal%20Assignment.pdf); Week 9 [Weekly Update](https://forms.gle/pVeX6SoP62KB47EAA) |
-| June 13 | Presentations | SERA Competition Written Submission |
+| June 13 | Presentations | [SERA Competition Project Submission Instructions](https://github.com/eliah-o/bioastronautics-q1/blob/main/Assignments/Final%20Project%20Assignment.pdf) |
